@@ -6,5 +6,5 @@
     args: []
 
     # Use additional_dependencies to install the actual node package
-    additional_dependencies: ['lesshint@1.5.2']
+    additional_dependencies: ['lesshint@2.0.0-rc']
     minimum_pre_commit_version: 0.7.0
